@@ -1,0 +1,2 @@
+# blackjack
+blackjack using C
