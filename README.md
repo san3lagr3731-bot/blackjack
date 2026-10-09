@@ -1,7 +1,7 @@
 # blackjack
 ## 遊び方
 1. ファイルをダウンロードする
-2. ```Bash:Bash
+2. ダウンロードしたファイルがあるディレクトリ上で```Bash:Bash
    cc -o blackjack blackjack.c blackjack.h cards.c cards.h
    ```
    を実行
